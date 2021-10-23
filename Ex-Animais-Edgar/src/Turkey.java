@@ -21,6 +21,7 @@ public class Turkey extends Animal {
         System.out.println(getAge() * 5);
     }
 
+    @Override
     public void Speak() {
         System.out.println("Queres o peru que fala? Se sim, escreve 'Sim'.");
 

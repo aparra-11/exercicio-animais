@@ -24,6 +24,6 @@ public class Animal {
     public void convertToHumanAge() {
     }
 
-    public void makeNoise() {
+    public void Speak() {
     }
 }
